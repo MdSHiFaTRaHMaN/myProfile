@@ -1,0 +1,29 @@
+.btn{
+    box-shadow: rgba(25, 122, 232, 0.4) -16px -7px 90px 10px;
+}
+.btn:hover{
+    color: white;
+    transition: 0.6s;
+}
+body{
+    font-family: 'Mooli', sans-serif;
+}
+p{
+    font-size: 12px;
+}
+.social{
+    padding: 5px 7px;
+    border: 1px solid rgb(2, 70, 126);
+    color: black;
+    background: deepskyblue;
+    border-radius: 7px;
+    
+}
+.social:hover{
+    color: white;
+    background: rgb(3, 52, 68);
+    transition: 0.6s;
+}
+h1{
+    font-size: 18px;
+}
